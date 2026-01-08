@@ -51,3 +51,9 @@ The game is structured around a **minimal Google-ADK-style agent design**:
 ### Install dependency
 ```bash
 pip install google-adk
+```
+
+### Run
+```bash
+python game_referee.py
+```
